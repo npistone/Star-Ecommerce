@@ -1,5 +1,5 @@
 import React from "react";
-import CardWidget from "./CardWidget";
+import CartWidget from "./CartWidget";
 import {
   Button,
   Menu,
@@ -37,7 +37,7 @@ const NavBar = () => {
           </Box>
           <Spacer />
           <Box p="10" w="300px" h="100">
-            <CardWidget />
+            <CartWidget />
           </Box>
         </Flex>
       </div>
