@@ -1,0 +1,34 @@
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto; 
+  text-align: center;
+  background-color: darkgrey;
+}
+
+.bodyLan{
+  height: 100%;
+  width: 100%;
+}
+
+.navBar{
+  background-color: cadetblue;
+  border-radius: 10px;
+  height: 5rem;
+  margin: 5px;
+  
+}
+.greeTitle{
+  color: white;
+
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
